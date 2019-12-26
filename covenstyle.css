@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #FE5000;
+    background-color: black; 
+}
+
+.flavourtext {
+    font-family: 'Courier Prime', monospace;
+    color: #00BB31;
+}
+
+.main-text {
+	font-size: 20px;
+}
