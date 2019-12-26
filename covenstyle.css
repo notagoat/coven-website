@@ -10,5 +10,37 @@ body {
 }
 
 .main-text {
-	font-size: 20px;
+	font-size: 1.5rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid red;
+  width: 10rem;  
+  height: 100%;
+  
+  text-align: center;
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  
+}
+
+.card-title {
+  font-weight: bolder;
+}
+
+.catcow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
